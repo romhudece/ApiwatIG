@@ -2,7 +2,7 @@
 <div class="ui card">
   <div class="content">
     <div class="right floated meta">14h</div>
-    <img class="ui avatar image" src="/images/avatar/large/elliot.jpg"> Elliot
+    <img class="ui avatar image" src="/images/avatar/large/elliot.jpg"> TOT
   </div>
   <div class="image">
     <img>
