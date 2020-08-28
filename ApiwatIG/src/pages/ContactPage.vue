@@ -1,9 +1,9 @@
 <template>
     <div id="contact-page">
-        <h1>ติดต่อเรา</h1>
+        <h1>Contact Page!!!</h1>
         <a :href="backLink">
             <button>
-                ย้อนกลับ
+                Back
             </button>
         </a>
     </div>
